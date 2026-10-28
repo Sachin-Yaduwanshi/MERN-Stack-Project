@@ -311,6 +311,13 @@ For in-depth architectural analysis, database diagrams, and placement demonstrat
 - 📋 [**Comprehensive E2E Evaluation Report**](https://github.com/your-username/StayPulse)
 
 ---
+## 🎥 Project Demo Video
+
+Watch the StayPulse project demo to understand its features and functionality.
+
+[▶️ Watch StayPulse Demo Video](https://drive.google.com/file/d/1XgsX3EoOt32RuRR1JmVEwhEHvkQzl4fj/view?usp=sharing)
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License.
